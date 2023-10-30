@@ -4,12 +4,6 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 The company is looking at prospective properties to buy to enter the market.
 
-The company wants to know factors detemining the SalePrice of House in Australian Market and predominantly is looking for answers to below two questions:
-
-    - Which variables are significant in predicting the price of a house, and
-
-    - How well those variables describe the price of a house.
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -23,9 +17,8 @@ Surprise Housing has decided to enter the Australian market and conduct a market
 
 The company wants to know factors detemining the SalePrice of House in Australian Market and predominantly is looking for answers to below two questions:
 
-    - Which variables are significant in predicting the price of a house, and
-
-    - How well those variables describe the price of a house.
+- Which variables are significant in predicting the price of a house, and
+- How well those variables describe the price of a house.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
